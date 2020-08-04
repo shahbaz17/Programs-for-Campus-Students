@@ -7,3 +7,5 @@
 * [GitHub Campus Experts](https://education.github.com/students/experts)
 * [HackerEarth Campus Ambassador Program](https://www.hackerearth.com/docs/wiki/campus/introduction/)
 * [Microsoft Learn Student Ambassador](https://studentambassadors.microsoft.com/en-us) by Microsoft.
+* [Mozilla Campus Clubs](https://campus.mozilla.community/) by Mozilla.
+* [GirlScript Summer Of Code](https://www.gssoc.tech/campus_ambassador.html) by GirlScript.
